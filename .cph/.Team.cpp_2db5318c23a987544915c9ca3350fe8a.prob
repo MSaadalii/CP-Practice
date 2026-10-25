@@ -1,0 +1,1 @@
+{"name":"Local: Team","url":"e:\\Saad\\Me\\CP Practice\\Team.cpp","tests":[{"id":1792943624546,"input":"3\n1 1 0\n1 1 1\n1 0 0\n","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Saad\\Me\\CP Practice\\Team.cpp","group":"local","local":true}
