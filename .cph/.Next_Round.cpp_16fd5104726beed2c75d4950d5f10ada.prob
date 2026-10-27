@@ -1,0 +1,1 @@
+{"name":"Local: Next_Round","url":"e:\\Saad\\Me\\CP Practice\\Next_Round.cpp","tests":[{"id":1793111402739,"input":"8 5\n10 9 8 7 7 7 5 5\n","output":"6"},{"id":1793111583384,"input":"4 2\n0 0 0 0\n","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Saad\\Me\\CP Practice\\Next_Round.cpp","group":"local","local":true}
