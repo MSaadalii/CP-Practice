@@ -1,0 +1,1 @@
+{"name":"Local: word_capitalization","url":"e:\\Saad\\Me\\CP Practice\\word_capitalization.cpp","tests":[{"id":1793699190964,"input":"Hi","output":"Hi"},{"id":1793699208451,"input":"hi","output":"Hi"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Saad\\Me\\CP Practice\\word_capitalization.cpp","group":"local","local":true}
