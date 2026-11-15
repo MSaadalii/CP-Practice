@@ -1,0 +1,1 @@
+{"name":"Local: word","url":"e:\\Saad\\Me\\CP Practice\\word.cpp","tests":[{"id":1794756769645,"input":"HoUse\n","output":"house\n"},{"id":1794756794772,"input":"ViP\n","output":"VIP"},{"id":1794756807694,"input":"maTRIx\n","output":"matrix"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Saad\\Me\\CP Practice\\word.cpp","group":"local","local":true}
